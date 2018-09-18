@@ -1,0 +1,11 @@
+{
+    "author": "Abhinav Chaudhary",
+    "name":"censorify",
+    "version":"0.0.1",
+    "description":"Censor Words out of text.",
+    "dependencies": {     
+    },
+    "engines": {
+        "node":"*"
+    }
+}
